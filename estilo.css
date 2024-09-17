@@ -100,7 +100,8 @@ figure>.figure-images{
 }
 
 figure>.figure-images img{
-    max-width: 40vw;;
+    max-width: 40vw;
+    max-height: 60vh;
 }
 
 figcaption{
